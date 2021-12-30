@@ -13,5 +13,5 @@
   - Feature Map을 통한 주요 특성 확인
 - 팀원
   - 김남규
-  - 박이정
-  - 유현준
+  - 박이정 (<a href = 'https://github.com/happyfranc' href='_blank'>github</a>)
+  - 유현준 (<a href = 'https://github.com/hyunjuyo' href='_blank'>github</a>)
