@@ -12,6 +12,6 @@
   - 진행 조건, 사전 학습 모델 변경 등을 통한 성능 향상 확인
   - Feature Map을 통한 주요 특성 확인
 - 팀원
-  - 김남규
+  - 김남규 (<a href = 'https://github.com/Isanghada' href='_blank'>github</a>)
   - 박이정 (<a href = 'https://github.com/happyfranc' href='_blank'>github</a>)
   - 유현준 (<a href = 'https://github.com/hyunjuyo' href='_blank'>github</a>)
